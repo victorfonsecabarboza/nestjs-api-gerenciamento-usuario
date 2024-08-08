@@ -24,7 +24,7 @@
 
 ## Description
 
-Este projeto é uma API CRUD para gerenciar usuários, construída com o framework [NestJS](https://github.com/nestjs/nest). Ele utiliza o TypeORM para interações com o banco de dados MySQL e usa o Swagger para documentação da API.
+Este projeto é uma API RESTful para gerenciamento de usuários, construída com o framework [NestJS](https://github.com/nestjs/nest). Ele utiliza o TypeORM para interações com o banco de dados MySQL e usa o Swagger para documentação da API.
 
 ## API Documentation
 
